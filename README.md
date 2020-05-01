@@ -1,5 +1,7 @@
-jsonstruct
+jsonstruct3
 ==========
+
+jsonstruct3 is a version of jsonstruct that adds python3 support. This version is not an attempt to add additional features. The rest of the documentation is provided by the original author, initialxy.
 
 jsonstruct is a library for two way conversion of typed Python object and JSON. This project is originally a fork of [jsonpickle](jsonpickle.github.com) (Thanks guys!).
 
